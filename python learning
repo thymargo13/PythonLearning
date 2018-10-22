@@ -1,0 +1,42 @@
+port = 21
+banner = "FreeFloat FTP Server"
+print ("[+] Checking for " + banner + " on port " + str(port)) 
+#change the type of port from int to str.
+type(varible) 
+#Check the type of the varible
+
+### String
+#1. upper()
+#2. lower()
+#3. replace(old, new)
+#4. find()
+
+###List
+portList = []
+portList.append(21)
+portList.append(80)
+portList.append(443)
+portList.append(25)
+print(portList) 
+#[21, 80, 443, 25]
+
+portList.sort()
+print(portList)
+#[21, 25, 80, 443]
+position = portList.index(80) 
+#return 2
+portList.remove(443)
+#[21,25,80]
+count = len(portList)
+#return 3
+
+
+###Dictionary
+services ={'ftps':21, 'ssh':22,'smtp':25, 'http':80}
+services.keys()
+#dict_keys(['ftps', 'ssh', 'smtp', 'http'])
+services.items()
+#dict_items([('ftps', 21), ('ssh', 22), ('smtp', 25), ('http', 80)])
+del dict['Name']; # 删除键是'Name'的条目
+dict.clear();     # 清空词典所有条目
+del dict ;        # 删除词典

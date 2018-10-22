@@ -1,0 +1,10 @@
+# real data
+# num1,num2,num3,num4,message
+# good data
+# csv file
+1,2,3,4,hello
+5,6,7,8,world
+9,10,11,12,hello
+1,2,3,4,hello
+5,6,7,8,good
+9,10,11,12,fine
