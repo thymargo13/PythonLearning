@@ -7,3 +7,5 @@ simple variable usage and type of data
 list, tuple, set, dictionary
 ## Python -04 (24/10/2018)
 Condition (if, elif, else); Loop (for, while) --> break, continue, pass; function defind (def)
+## Python -05 (25/10/2018)
+Pandas - Series & DataFrame 
