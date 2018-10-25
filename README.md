@@ -5,3 +5,5 @@ introduction of Python
 simple variable usage and type of data 
 ## Python -03 (23/10/2018)
 list, tuple, set, dictionary
+## Python -04 (24/10/2018)
+Condition (if, elif, else); Loop (for, while) --> break, continue, pass; function defind (def)
