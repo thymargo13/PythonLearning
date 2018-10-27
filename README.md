@@ -11,3 +11,5 @@ Condition (if, elif, else); Loop (for, while) --> break, continue, pass; functio
 Pandas - Series & DataFrame 
 ## Python -06 (26/10/2018)
 Pandas - Merge, Join & Concat
+## Python -07 (27/10/2018)
+Matplotlib -line chart, bar chart, scatter, histogram, boxplot
